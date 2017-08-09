@@ -1,0 +1,15 @@
+{
+    "name": "framecreative/acf-post-term-select",
+    "description": "An Advanced Custom Fields field for selecting posts or terms",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Frame Creative",
+            "email": "digital@framecreative.com.au"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
